@@ -81,13 +81,13 @@ Fire on the horizon - это игра в жанре выживание собы�
 
 ## Референсы:
 ### *Outer Wilds*
-![[Pasted image 20251222234026.png]]
-![[Pasted image 20251222234108.png]]
+![[OuterWildsRef1.png]]
+![[OuterWildsRef2.png]]
 
 ---
 ### *Astroneer*
-![[Pasted image 20251222234233.png]]
-![[Pasted image 20251222234244.png]]
+![[AstroneerRef1.png]]
+![[AstroneerRef2.png]]
 
 # Системы и механики
 

@@ -11,12 +11,14 @@
             "id": "1be54ca3be2f1d66",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20251222234026.png"
+                "file": "Дизайн документ игры Fire On The Horizon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251222234026"
+              "icon": "lucide-file",
+              "title": "Дизайн документ игры Fire On The Horizon"
             }
           }
         ]
@@ -191,12 +193,12 @@
   },
   "active": "1be54ca3be2f1d66",
   "lastOpenFiles": [
+    "attachments/AstroneerRef2.png",
+    "attachments/AstroneerRef1.png",
+    "attachments/OuterWildsRef2.png",
+    "attachments/OuterWildsRef1.png",
     "Планирование разработки.md",
     "Дизайн документ игры Fire On The Horizon.md",
-    "attachments/Pasted image 20251222234244.png",
-    "attachments/Pasted image 20251222234233.png",
-    "attachments/Pasted image 20251222234108.png",
-    "attachments/Pasted image 20251222234026.png",
     "attachments",
     "Метрики.md"
   ]
