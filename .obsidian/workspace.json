@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "9041e672663be0b8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20251223175409.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251223175409"
+            }
+          },
+          {
             "id": "bf477d5ac03a891a",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,10 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3d38ff9d7e9b911",
+  "active": "9041e672663be0b8",
   "lastOpenFiles": [
-    "attachments/Следование корабля за камерой.png",
     "Дизайн документ игры Fire On The Horizon.md",
+    "attachments/Pasted image 20251223175409.png",
+    "attachments/Следование корабля за камерой.png",
     "Метрики.md",
     "Планирование разработки.md",
     "attachments/Примерное представление расположения рук относительно камеры2.png",
