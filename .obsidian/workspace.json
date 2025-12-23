@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Дизайн документ игры Fire On The Horizon"
             }
-          },
-          {
-            "id": "efb8be4c15390690",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20251223175631.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251223175631"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efb8be4c15390690",
+  "active": "a3d38ff9d7e9b911",
   "lastOpenFiles": [
+    "attachments/Скорость корабля в противоположном направлении от камеры.png",
     "Дизайн документ игры Fire On The Horizon.md",
-    "attachments/Pasted image 20251223175631.png",
     "attachments/Следование корабля за камерой.png",
     "attachments/Скорость корабля по направлению камеры.png",
     "Метрики.md",
